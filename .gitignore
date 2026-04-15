@@ -1,0 +1,38 @@
+# ROS build artifacts
+build/
+devel/
+install/
+logs/
+
+# Catkin tools cache
+.catkin_tools/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+dist/
+.pytest_cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Empty marker files (from your workspace)
+cv2
+np
+rospy
+tf2_geometry_msgs
+tf2_ros
