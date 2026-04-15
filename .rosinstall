@@ -1,74 +1,64 @@
 - git:
-    local-name: src/apriltag
+    local-name: apriltag
     uri: https://github.com/AprilRobotics/apriltag.git
     version: master
 
 - git:
-    local-name: src/apriltag_ros
+    local-name: apriltag_ros
     uri: https://github.com/AprilRobotics/apriltag_ros.git
     version: master
 
 - git:
-    local-name: src/dynamixel_control
+    local-name: dynamixel_control
     uri: https://github.com/MRamirez25/dynamixel-control.git
     version: main
 
 - git:
-    local-name: src/easy_handeye
+    local-name: easy_handeye
     uri: https://github.com/IFL-CAMP/easy_handeye.git
     version: master
 
 - git:
-    local-name: src/franka_buttons
+    local-name: franka_buttons
     uri: https://github.com/franzesegiovanni/franka_buttons.git
     version: main
 
 - git:
-    local-name: src/franka_easy_handeye
+    local-name: franka_easy_handeye
     uri: https://github.com/franzesegiovanni/franka_easy_handeye.git
     version: main
 
 - git:
-    local-name: src/franka_human_friendly_controllers
+    local-name: franka_human_friendly_controllers
     uri: https://github.com/franzesegiovanni/franka_human_friendly_controllers.git
+    version: master
+
+- git:
+    local-name: franka_ros
+    uri: https://github.com/frankaemika/franka_ros.git
     version: main
 
 - git:
-    local-name: src/gaussian_process_transportation
+    local-name: gaussian_process_transportation
     uri: https://github.com/franzesegiovanni/gaussian_process_transportation.git
     version: main
 
 - git:
-    local-name: src/ILoSA
+    local-name: ILoSA
     uri: https://github.com/franzesegiovanni/ILoSA.git
     version: main
 
 - git:
-    local-name: src/jsk_common
-    uri: https://github.com/jsk-ros-pkg/jsk_common.git
-    version: master
-
-- git:
-    local-name: src/panda-ros-py
+    local-name: panda-ros-py
     uri: https://github.com/platonics-delft/panda-ros-py.git
-    version: master
+    version: main
 
 - git:
-    local-name: src/realsense-ros
+    local-name: realsense-ros
     uri: https://github.com/IntelRealSense/realsense-ros.git
     version: master
 
 - git:
-    local-name: src/SIMPLe
+    local-name: SIMPLe
     uri: https://github.com/franzesegiovanni/SIMPLe.git
     version: main
-
-- git:
-    local-name: src/tentacle_control
-    uri: https://github.com/MRamirez25/tentacle-control.git
-    version: main
-
-- git:
-    local-name: src/src/franka_ros
-    uri: https://github.com/frankaemika/franka_ros.git
-    version: humble-devel
