@@ -10,7 +10,7 @@
 
 - git:
     local-name: dynamixel_control
-    uri: https://github.com/MRamirez25/dynamixel-control.git
+    uri: https://github.com/MRamirez25/dynamixel_control.git
     version: main
 
 - git:
