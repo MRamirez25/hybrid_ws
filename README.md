@@ -2,7 +2,7 @@
 
 ## Overview 
 
-This workspace contains the following key packages:
+This repository will help you install the following packages to your ROS workspace:
 
 #### Robot learning and control packages
 - [**dynamixel_control**](https://github.com/MRamirez25/dynamixel_control) - Used to communicate and control dynamixel servos
